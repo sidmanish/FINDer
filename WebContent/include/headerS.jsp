@@ -61,7 +61,7 @@ rd.forward(request, response);
 		<div class="container">
 			<nav class="navbar navbar-expand-lg navbar-light mu-navbar">
 				<!-- Text based logo -->
-				<a class="navbar-brand mu-logo" href="index.jsp"><span>FINDer</span></a>
+				<a class="navbar-brand mu-logo" href="index.html"><span>FINDer</span></a>
 				<!-- image based logo -->
 			   	<!-- <a class="navbar-brand mu-logo" href="index.jsp"><img src="assets/images/logo.png" alt="logo"></a> -->
 			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -71,7 +71,7 @@ rd.forward(request, response);
 			  <div class="collapse navbar-collapse" id="navbarSupportedContent">
 			    <ul class="navbar-nav mr-auto mu-navbar-nav">
 			      <li class="nav-item">
-			        <a href="index.jsp">Home</a>
+			        <a href="index.html">Home</a>
 			      </li>
 			      
 			    <li class="nav-item dropdown ">
