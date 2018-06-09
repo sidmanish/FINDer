@@ -54,7 +54,7 @@
 			  <div class="collapse navbar-collapse" id="navbarSupportedContent">
 			    <ul class="navbar-nav mr-auto mu-navbar-nav">
 			      <li class="nav-item ">
-			        <a href="index.html">Home</a>
+			        <a href="index.jsp">Home</a>
 			      </li>
 			      <li class="nav-item "><a href="aboutUs.jsp">About us</a></li>
 			      <li class="nav-item"><a href="ServicesFrontEndServlet">Services</a></li>
