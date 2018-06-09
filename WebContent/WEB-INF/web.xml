@@ -3,7 +3,7 @@
   <display-name>RegForm_GenericServlet</display-name>
   <welcome-file-list>
     <welcome-file>RegPage.html</welcome-file>
-    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>index.html</welcome-file>
   </welcome-file-list>
   <servlet>
     <description></description>
